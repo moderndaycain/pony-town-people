@@ -1,5 +1,3 @@
-# pony-town-people
-
 hey! this is for pony town.
 
 -
